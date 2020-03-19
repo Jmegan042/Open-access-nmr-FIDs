@@ -10,10 +10,10 @@ During the global pandemic of COVID-19, many NMR users and technitians are unabl
 
 Data submission is open to anyone. Please email teaching.nmr.spectra@gmail.com with the following: 
 
-The FID files (clearly labeled please)
-The Compound Structure
-The type of data it is (Bruker, Varain, Jeol)
-Solvent/Temperature conditions
+* The FID files (clearly labeled please)
+* The compound structure
+* The type of data it is (Bruker, Varain, Jeol)
+* Solvent/Temperature conditions
 
 # Use of these data
 
